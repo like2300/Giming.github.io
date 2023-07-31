@@ -1,0 +1,44 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: "Roboto", sans-serif;
+}
+
+body {
+  position: absolute;
+  height: 100vh;
+  width: 100%;
+  background: #000;
+}
+
+body {
+  /* font-family: 'Inter', sans-serif; */
+  font-family: "Roboto", sans-serif;
+}
+
+h1 {
+  text-transform: capitalize;
+  font-size: 34px;
+  font-weight: 700;
+}
+
+.gamePage {
+  height: 100vh;
+  width: 100%;
+  background-size: cover;
+  position: relative;
+  background: url(https://th.bing.com/th/id/R.183ef943b795fe34056cc36f7addfaee?rik=FCdtg8G7t2mfaw&riu=http%3a%2f%2fgetwallpapers.com%2fwallpaper%2ffull%2f0%2fe%2fa%2f83117.jpg&ehk=z4qapswr98%2fl38tOuAt%2bZqx8SxUbCGXaP2%2fA7vkgwjY%3d&risl=&pid=ImgRaw&r=0);
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+}
+
+.box {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 80px;
+}
+.box span {
+  font-size: 60px;
+}/*# sourceMappingURL=style.css.map */
